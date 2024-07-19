@@ -10,7 +10,7 @@ I utilized datasets from Open Data Telangana, made available by the Telangana Go
 
 For detailed inspection, please have a look at my:
 
-- **[Power BI Report]**
+-  [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjUyNmZlNjYtMjJkYS00M2Q5LWE5NDItZTM3MTA5MGVkZmFlIiwidCI6IjU4Mzc4NDk5LTA0ZmMtNGI2Ni1hZGQ0LWEzMTQyYzI0OTIzNCJ9)**
 - **[LinkedIn Post]**
 
 **Data Model:**
